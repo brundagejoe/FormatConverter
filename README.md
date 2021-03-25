@@ -40,11 +40,9 @@ The .txt file will be named emailList.txt by default. To import this file into S
 
 The emails in the .txt file will then be imported into the selected list. If the email was already present on the list, it will not be added, but it will be re-subscribed if it is unsubscribed.
 
-This program was created using `python 3.9` and
-
 ## Python Information
 
-The program has been written in python but has been compiled as a .exe. Because future users may desire to modify the program, the .py file has been included in the Dependencies folder, along with a breakdown of the code.
+The program has been written in python 3.9 but has been compiled as a .exe. Because future users may desire to modify the program, the .py file has been included in the Dependencies folder, along with a breakdown of the code.
 
 The python written for this is incredibly simple (just 43 lines) and anyone with familiarity with python will find this section unnecessary (except perhaps the section on compiling code). Instead, the following is written for those with little to no experience in python.
 
