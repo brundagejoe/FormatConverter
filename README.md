@@ -1,6 +1,6 @@
 # Format Converter
 
-The Format Converter is proprietary software created to automate the creation of two email lists that need to be sent out each day. After receiving input, the Format Converter creates a .txt file to be imported to turboSMTP's SendBlaster 4 and copies a semi-colon delimited list to the user's clipboard to be pasted in Outlook.
+The Format Converter is software created to automate the creation of two email lists that need to be sent out each day. After receiving input, the Format Converter creates a .txt file to be imported to turboSMTP's SendBlaster 4 and copies a semi-colon delimited list to the user's clipboard to be pasted in Outlook.
 
 Format Converter is created for use on Windows, although the .py file has been included so a user could implement the same code on a Mac or Linux machine with minor adjustments.
 
